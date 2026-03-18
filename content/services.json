@@ -1,0 +1,24 @@
+{
+  "intro": "I offer a focused set of services designed to deliver real results. Every engagement is tailored to your specific context and goals.",
+  "items": [
+    {
+      "icon": "🎯",
+      "title": "Strategy & Consulting",
+      "description": "End-to-end strategic guidance to help you define direction, prioritize investments, and execute with confidence.",
+      "price": "Custom quote"
+    },
+    {
+      "icon": "⚡",
+      "title": "Service Name 2",
+      "description": "A short description of this service and the value it provides to your clients. Focus on outcomes, not activities.",
+      "price": "From €X"
+    },
+    {
+      "icon": "🔬",
+      "title": "Service Name 3",
+      "description": "A short description of this service and the value it provides to your clients. Focus on outcomes, not activities.",
+      "price": "From €X"
+    }
+  ],
+  "ctaText": "Get in touch"
+}

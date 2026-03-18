@@ -1,0 +1,31 @@
+{
+  "title": "Hello World — My First Article",
+  "publishedAt": "2026-03-18",
+  "updatedAt": null,
+  "summary": "A quick introduction to this blog and what I plan to write about.",
+  "tags": ["meta", "introduction"],
+  "coverImage": null,
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Welcome to my blog! This is where I'll share thoughts, insights, and learnings from my work."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "children": [{ "text": "What to expect" }]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "I'll be writing about [topics you care about]. My goal is to share practical, actionable content that helps you [benefit for readers]."
+        }
+      ]
+    }
+  ]
+}

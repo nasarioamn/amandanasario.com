@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-inter: 'Inter', system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-stone-50 text-stone-900 antialiased;
+}
+
+/* Article / prose content */
+.prose-custom {
+  @apply prose prose-stone max-w-none
+    prose-headings:font-semibold
+    prose-a:text-accent prose-a:no-underline hover:prose-a:underline
+    prose-img:rounded-xl prose-img:shadow-sm;
+}

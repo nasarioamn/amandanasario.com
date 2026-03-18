@@ -1,0 +1,15 @@
+{
+  "title": "Example Project",
+  "description": "A brief description of the project, what problem it solved, and the approach taken.",
+  "status": "completed",
+  "technologies": ["Technology 1", "Technology 2", "Technology 3"],
+  "kpis": [
+    { "metric": "Revenue growth", "value": "+40%" },
+    { "metric": "Time saved", "value": "20h/week" },
+    { "metric": "User satisfaction", "value": "4.8/5" }
+  ],
+  "projectUrl": "",
+  "coverImage": null,
+  "startDate": "2025-01-01",
+  "endDate": "2025-06-01"
+}

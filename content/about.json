@@ -1,0 +1,45 @@
+{
+  "name": "Amanda Nasario",
+  "title": "Your Professional Title",
+  "tagline": "I help businesses grow through [your specialty]. Open to new projects.",
+  "bio": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hi, I'm Amanda — a [your profession] based in [your city]. I specialize in [your specialty] and have been working in this field for over [X] years."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Before going independent, I worked at [previous companies], where I led [key achievements]. I now work with clients ranging from early-stage startups to established enterprises."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "When I'm not working, you'll find me [personal interests]."
+        }
+      ]
+    }
+  ],
+  "cvUrl": "",
+  "email": "hello@amandanasario.com",
+  "linkedin": "",
+  "github": "",
+  "twitter": "",
+  "skills": [
+    "Skill 1",
+    "Skill 2",
+    "Skill 3",
+    "Skill 4",
+    "Skill 5",
+    "Skill 6"
+  ],
+  "avatar": null
+}
